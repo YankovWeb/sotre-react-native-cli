@@ -31,8 +31,9 @@ To run the app locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/YankovWeb/Store.git`
 2. Navigate to the project directory: `cd store`
 3. Install the dependencies: `npm install` or `yarn install`
-4. Start the development server: `npm start` or `yarn start`
-5. Open the app on your device or emulator using the Expo client app or run it on a physical device using the provided instructions.
+4. Start the development server: `npx react-native-start` or `yarn start`
+5.npx react-native run-ios , npx react-native run-android.
+
 
 ## Technologies Used
 
