@@ -32,7 +32,7 @@ To run the app locally, follow these steps:
 2. Navigate to the project directory: `cd store`
 3. Install the dependencies: `npm install` or `yarn install`
 4. Start the development server: `npx react-native-start` or `yarn start`
-5.npx react-native run-ios , npx react-native run-android.
+5. npx react-native run-ios , npx react-native run-android.
 
 
 ## Technologies Used
